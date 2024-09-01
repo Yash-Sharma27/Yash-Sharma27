@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Yash-Sharma27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning frontend frameworks react
+- 💞 I’m looking for jobs right now
+- 📫 How to reach me : sharmayshjmt@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i'm crazy about wildlife Photography
+-    Yash-Sharma27/Yash-Sharma27/Fyle_Assignment
 
-<!---
-Yash-Sharma27/Yash-Sharma27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
